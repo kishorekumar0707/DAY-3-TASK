@@ -6,10 +6,10 @@ This one has three activities:
 
 1. How to compare two JSON have the same properties without order
 
-    - link for the object compare[click here]
+- link for the object compare[click here]
     (https://github.com/kishorekumar0707/Object-compare.git)
     
-    - in this above we compared two JSON have the same properties without order
+- in this above we compared two JSON have the same properties without order
    
  2. Use the rest countries and display all the country
 flags in the console
